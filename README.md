@@ -1,3 +1,3 @@
 приложение для сообщений
 
-https://yeffasol.github.io/react-messages/
+https://some-yummy-nick.github.io/react-messages/
